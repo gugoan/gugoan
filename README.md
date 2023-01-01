@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/gugoan/gugoan/blob/main/gugoan-readme-img.png?raw=true" width="100%" alt="Banner">
+</div>
 
-<!--
-**gugoan/gugoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>ABOUT ME</h3>
 
-Here are some ideas to get you started:
+I've been a technology professional for over 16 years, I work with Data Analysis seeking to optimize routines and operational processes, and generate metric information that helps decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently have experience with:
+
+- Creation of reports and dashboards with IBM Cognos Analytics and Microsoft Power BI tools.
+- MySQL and PostgreSQL database modeling and management.
+- Creation of advanced queries in SQL.
+- Data Warehouse, OLAP/OLTP environments.
+- Automation of routine processes, data extraction and integration with Pentaho / Apache Hop.
+- Business Rule Mapping and requirements gathering..
+
+I also have solid knowledge in PHP (Yii Framework) and data visualization libraries such as ChartsJS and Highcharts for creating interfaces and interactive dashboards.
+
+💡 Stacks: SQL avançado, IBM Cognos Analytics, Microsoft Power BI / DAX, Excel, MySQL/Postgres, Git/Github, API’s, Pentaho/Apache Hop, PHP, ChartJS.
