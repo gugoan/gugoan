@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gugoan/gugoan/blob/main/gugoan-readme-img.png?raw=true" width="100%" alt="Banner">
+  <img src="https://github.com/gugoan/gugoan/blob/main/gugoan-readme-logo.png?raw=true" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
